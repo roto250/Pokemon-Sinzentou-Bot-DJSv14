@@ -1,0 +1,26 @@
+[
+  {
+    "name": "t-f",
+    "serverID": "1167477751817719838",
+    "announceChannelID": "1171366839390060564",
+    "targetChannelID": "1201122642141392998",
+    "role": null,
+    "color": "a1a1a1"
+  },
+  {
+    "name": "交換ch",
+    "serverID": "1431553463187275816",
+    "announceChannelID": "1465717121127415850",
+    "targetChannelID": "1443968485913919599",
+    "role": null,
+    "color": "000000"
+  },
+  {
+    "name": "テスト",
+    "serverID": "1039799815996968970",
+    "announceChannelID": "1466942397748478024",
+    "targetChannelID": "1466944610399027221",
+    "role": null,
+    "color": "000000"
+  }
+]
